@@ -13,3 +13,13 @@ header{
 h1{
     font-size: 46px;
 }
+a{
+    text-decoration:none;
+    color: #1c1119;
+    display: flex;
+    flex-wrap:wrap;
+}
+a:hover{
+    color:BLACK
+    TEXT-DECORATION:underline;
+}
